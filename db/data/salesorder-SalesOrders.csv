@@ -1,0 +1,16 @@
+ID,orderNumber,customerName,orderDate,status
+8b1a6b20-57e6-11ec-bf63-0242ac130002,SO001,John Doe,2022-03-01,Processing
+8b1a6b21-57e6-11ec-bf63-0242ac130002,SO002,Jane Doe,2022-03-02,Shipped
+8b1a6b22-57e6-11ec-bf63-0242ac130002,SO003,Robert Smith,2022-03-03,Delivered
+8b1a6b28-57e6-11ec-bf63-0242ac130002,SO004,Emily Johnson,2022-03-04,Processing
+8b1a6b29-57e6-11ec-bf63-0242ac130002,SO005,Michael Brown,2022-03-05,Shipped
+8b1a6b30-57e6-11ec-bf63-0242ac130002,SO006,David Davis,2022-03-06,Delivered
+8b1a6b31-57e6-11ec-bf63-0242ac130002,SO007,Emma Wilson,2022-03-07,Processing
+8b1a6b32-57e6-11ec-bf63-0242ac130002,SO008,Oliver Taylor,2022-03-08,Shipped
+8b1a6b33-57e6-11ec-bf63-0242ac130002,SO009,Sophia Thomas,2022-03-09,Delivered
+8b1a6b34-57e6-11ec-bf63-0242ac130002,SO010,James Jackson,2022-03-10,Processing
+8b1a6b35-57e6-11ec-bf63-0242ac130002,SO011,Lucy White,2022-03-11,Shipped
+8b1a6b36-57e6-11ec-bf63-0242ac130002,SO012,William Harris,2022-03-12,Delivered
+8b1a6b37-57e6-11ec-bf63-0242ac130002,SO013,Charlotte Martin,2022-03-13,Processing
+8b1a6b38-57e6-11ec-bf63-0242ac130002,SO014,Jack Thompson,2022-03-14,Shipped
+8b1a6b39-57e6-11ec-bf63-0242ac130002,SO015,Ella Walker,2022-03-15,Delivered

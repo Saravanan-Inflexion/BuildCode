@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","salesorder/ManageSalesOrder/test/integration/FirstJourney","salesorder/ManageSalesOrder/test/integration/pages/SalesOrdersList","salesorder/ManageSalesOrder/test/integration/pages/SalesOrdersObjectPage"],function(e,r,s,a){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("salesorder/ManageSalesOrder")+"/index.html"});e.run({pages:{onTheSalesOrdersList:s,onTheSalesOrdersObjectPage:a}},r.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

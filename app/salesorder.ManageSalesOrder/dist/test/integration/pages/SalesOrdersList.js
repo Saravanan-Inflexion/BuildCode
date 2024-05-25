@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(e){"use strict";var s={actions:{},assertions:{}};return new e({appId:"salesorder.ManageSalesOrder",componentId:"SalesOrdersList",contextPath:"/SalesOrders"},s)});
+//# sourceMappingURL=SalesOrdersList.js.map
